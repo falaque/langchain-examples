@@ -1,7 +1,7 @@
 # LangChain Python Tutorials
 
-This repository contains my learning projects from the Udemy course on LangChain.  
-Each folder represents an independent project, with its own README and requirements.
+This repository contains my learning projects from the [Udemy course on LangChain](https://www.udemy.com/course/langchain/).  
+Each folder represents an independent project, with its own README.
 
 ---
 
