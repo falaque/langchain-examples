@@ -7,14 +7,9 @@ Each folder represents an independent project, with its own README and requireme
 
 ## 🚀 Projects
 
-1. [Ice Breaker Agent](./01_ice_breaker_agent)  
-   Generate personalized ice breakers by searching online profiles.
+1. [Hello World](./00_hello_world)  
+   Basic LLM integration.
 
-2. [Documentation Helper](./02_documentation_helper)  
-   A chatbot that answers questions from package documentation using RAG.
-
-3. [Slim Code Interpreter](./03_code_interpreter)  
-   Lightweight assistant for running Python code snippets.
 
 ---
 
